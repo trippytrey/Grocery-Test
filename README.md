@@ -1,4 +1,4 @@
-# phpGroceryTest
+# Grocery-Test
 
 This test was designed to get acquainted with integrating HTML and PHP.
 
