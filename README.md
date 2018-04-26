@@ -9,3 +9,5 @@ When the numbers are entered, the user presses submit, posting the values to the
 This shows a receipt of the transaction, giving values for the drinks and asking if the user is over 21 and if they want the items delivered.
 
 If they are not over 21, the value of beer is set to 0 and the site will tell the user they are not over 21 so they cannot order that specific item.  Depending on if the "Delivery" box is checked will determine if the items are delivered or left at the store for pickup.
+
+# WHEN RUNNING, YOUR TEXT EDITOR/IDE MUST BE CONNECTED TO SERVER (Ex. MAMP, WAMP, etc..) AND FILES MUST BE SAVED IN SAME LOCATION
